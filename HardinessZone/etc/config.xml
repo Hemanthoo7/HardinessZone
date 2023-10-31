@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <hardinesszone>
+            <general>
+                <comma_separated_values>
+                1,2,3,4,5,6-Most products begin shipping mid September |
+                7,8,9,10,11,12,13-Most products begin shipping late September |
+                0-Begins shipping early October to all zones
+                </comma_separated_values>
+            </general>
+        </hardinesszone>
+    </default>
+</config>

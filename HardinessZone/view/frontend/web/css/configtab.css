@@ -1,0 +1,20 @@
+/* .config-nav.dcw-tab.admin__page-nav-title:before {
+    content: '';
+    background: url(../images/dcw.png) no-repeat 0 0;background-size: contain;
+    display: block;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 11px;
+} */
+
+.admin__menu .item-settings.active .item-title .config-nav .dcw-tab.admin__page-nav-title::before {
+  content: '';
+  background: url('../images/dcw.png') no-repeat 0 0;
+  background-size: contain;
+  display: block;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 11px;
+}
